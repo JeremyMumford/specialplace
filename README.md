@@ -3,4 +3,4 @@ This is just a test
 
 This is a big test
 
-Commit this to a branch
+What is the consequence for failing the test?
